@@ -5,6 +5,7 @@ Hooli Consults currently own two software platforms, [Pipersoft](www.piper.com.n
 - [PouchDB](www.pouchdb.com)
 - [VueJS](www.vuejs.org)
 - [Django](djangoproject.com)
+
 However, we're looking at taking on some of these:
 - [ExpressJS](https://expressjs.com/)
 - [Dexie](http://dexie.org)
@@ -34,3 +35,12 @@ We're looking at splitting computation across client/server. Transactions that a
 4. Find an efficient way to calculate balances
 
 NB: Be careful with different nodes overwriting data.
+
+### Submission
+Create a PR
+Deploy online with surge/heroku/aws/vps
+
+### Evaluation
+1. Usage of Git
+2. Coding standards
+3. Testing
